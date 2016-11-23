@@ -1,0 +1,3 @@
+rootProject.name = 'ReactRoutingDemo'
+
+include ':app'
